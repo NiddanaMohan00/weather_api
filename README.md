@@ -30,13 +30,7 @@
 - ☁️ OpenWeather API
 - ⚡ Requests Library
 
----
 
-## 📸 UI Preview
-
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z9m.png" width="500"/>
-</p>
 
 ---
 
